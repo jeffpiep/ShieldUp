@@ -1,0 +1,4 @@
+Download the ATR file and play on your favorite 800XL emulator (e.g., Altirra). The game will autorun.
+ShieldUp requires one paddle to play. Protect your Golden Dragon Egg hidden deep in your castle's keep from the enemy's missles.
+Move your paddle to position the shield to intercept the missles. Stop enough missles to clear each level. 
+Missles fly faster and start closer as levels progress. Win after clearing all four levels.
